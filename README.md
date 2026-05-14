@@ -31,6 +31,8 @@ Modern and minimal notification system for FiveM built with smooth animations, o
 
 https://www.youtube.com/watch?v=nux6EOyv8gc
 
+<img width="1672" height="941" alt="ECL-Notify" src="https://github.com/user-attachments/assets/6473423d-2812-4d4e-a3e9-56dbb57d80af" />
+
 ━━━━━━━━━━━━━━━━━━━━━━
 
 ## Installation
@@ -53,4 +55,5 @@ https://discord.gg/tBkbfATVrz
 
 Developed by ECL Scripts.
 
-Premium FiveM Development
+Premium FiveM Development![Uploading ECL-Notify.png…]()
+
